@@ -1,6 +1,6 @@
 # Movie Rental SQL Project
 
-This is a relational database project for a **Movie Rental System**, designed to demonstrate advanced SQL skills including schema design, data analysis, stored procedures, triggers, and views.
+This is a relational database project for a **Movie Rental System**, designed to demonstrate advanced SQL skills including schema design, data analysis, stored procedures, triggers, and views. The project was **designed and implemented using the Waterfall methodology**, following sequential phases: requirements analysis, schema design, data population, advanced SQL queries, stored procedures, triggers, and views.
 
 ## Features
 
